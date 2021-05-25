@@ -1,7 +1,7 @@
 # 미스홍 투어
 
 전국 축제 조회 서비스
-메인 : https://knsan189.github.io/festival_project/
+메인 : https://hong-sunki.github.io/festival_project/
 
 ## 목차
 
