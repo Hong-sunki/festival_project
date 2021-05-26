@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/festival_project/static/css/main.dd50eab8.chunk.css",
+    "main.js": "/festival_project/static/js/main.154b4344.chunk.js",
+    "main.js.map": "/festival_project/static/js/main.154b4344.chunk.js.map",
+    "runtime-main.js": "/festival_project/static/js/runtime-main.637bece5.js",
+    "runtime-main.js.map": "/festival_project/static/js/runtime-main.637bece5.js.map",
+    "static/css/2.08fa1c75.chunk.css": "/festival_project/static/css/2.08fa1c75.chunk.css",
+    "static/js/2.b92af619.chunk.js": "/festival_project/static/js/2.b92af619.chunk.js",
+    "static/js/2.b92af619.chunk.js.map": "/festival_project/static/js/2.b92af619.chunk.js.map",
+    "index.html": "/festival_project/index.html",
+    "static/css/2.08fa1c75.chunk.css.map": "/festival_project/static/css/2.08fa1c75.chunk.css.map",
+    "static/css/main.dd50eab8.chunk.css.map": "/festival_project/static/css/main.dd50eab8.chunk.css.map",
+    "static/js/2.b92af619.chunk.js.LICENSE.txt": "/festival_project/static/js/2.b92af619.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/festival_project/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.637bece5.js",
+    "static/css/2.08fa1c75.chunk.css",
+    "static/js/2.b92af619.chunk.js",
+    "static/css/main.dd50eab8.chunk.css",
+    "static/js/main.154b4344.chunk.js"
+  ]
+}
