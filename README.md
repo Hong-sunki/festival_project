@@ -1,6 +1,6 @@
 # 미스홍투어
 
-전국 축제 조회 서비스 메인 : https://hong-sunki.github.io/festival/
+전국 축제 조회 서비스 메인 : https://hong-sunki.github.io/festival_project/
 
 
 ## 목차
