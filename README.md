@@ -33,10 +33,13 @@
 ### 3. 핵심 기능
 
 #### 3.1 계절별로 API를 요청하여 표시
-![season](https://user-images.githubusercontent.com/77268941/119075237-6d987480-ba2b-11eb-858b-f2086181b911.png)
-#### 3.2 지역별, 월별로 API를 요청하여 표시
-![areamon](https://user-images.githubusercontent.com/77268941/119075289-856ff880-ba2b-11eb-89f4-f8320436ac2b.png)
+![20210528_204411](https://user-images.githubusercontent.com/77268941/119979219-9a352900-bff5-11eb-8f0b-847725397cbd.png)
 
+#### 3.2 지역별 API를 요청하여 표시
+![20210528_204429](https://user-images.githubusercontent.com/77268941/119979295-b3d67080-bff5-11eb-8a0f-5714adfb84fc.png)
+
+#### 3.3 월별로 API를 요청하여 표시
+![20210528_204501](https://user-images.githubusercontent.com/77268941/119979307-b933bb00-bff5-11eb-9cb5-446886d4f04f.png)
 
 
 
