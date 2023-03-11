@@ -1,6 +1,6 @@
 # 미스홍투어
 
-전국 축제 조회 서비스 메인 : https://knsan189.github.io/festival_project/
+전국 축제 조회 서비스 메인 : http://knsan189.iptime.org:5000/
 
 
 ## 목차
